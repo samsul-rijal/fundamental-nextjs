@@ -108,6 +108,11 @@
   margin-left: 0.5rem;
 }
 
+
+.title-homepage {
+  color: orange;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
